@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 - 🔭 Saya sedang mengerjakan proyek analisis Analisis Sentimen Ulasan Produk E-commerce.<br>- 🌱 Saya sedang mendalami Machine Learning dengan Scikit-learn, Visualisasi Data dengan Tablea].<br>- 👯 Saya terbuka untuk berkolaborasi dalam proyek analisis data atau *machine learning*.<br>- 🤔 Saya mencari kesempatan magang di bidang *Data Analyst* atau *Business Intelligence*.<br>- 📫 Hubungi saya via: mauufayydh@gmail.com atau www.linkedin.com/in/maulafaydh.<br>
 
 
